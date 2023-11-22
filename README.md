@@ -3,8 +3,6 @@
 - Rust
 - XR
 
-# Have Fun
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OneeMe/OneeMe/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/OneeMe/OneeMe/output/github-contribution-grid-snake.svg">
