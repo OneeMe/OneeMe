@@ -1,7 +1,6 @@
-最近在研究：
+我的小产品：
 
-- Rust
-- XR
+- [Obsidian-Lark-Wiki](https://github.com/OneeMe/obsidian-lark-doc/blob/master/README-CN.md)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/OneeMe/OneeMe/output/github-contribution-grid-snake-dark.svg">
